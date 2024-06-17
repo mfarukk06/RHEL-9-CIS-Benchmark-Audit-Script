@@ -1,0 +1,1 @@
+This is a RedHat Enterprise Linux 9 CIS Benchmark's Audit script. You can use this code to benchmark your RHEL 9 environment to see the security efficiency and CIS compliance of your environment. Just upload this sh file to the environment and run.
